@@ -41,6 +41,6 @@ public class BaseClassAmazon {
 
 	@AfterClass
 	public void Postcondition() {
-//		driver.quit();
+		driver.quit();
 	}
 }
